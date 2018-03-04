@@ -1,3 +1,5 @@
 My solutions to some Hackerrank problems
 
-Solutions are in Javascript unless noted otherwise
+https://www.hackerrank.com/bosilovatz
+
+Most solutions in Javascript. Some Ruby and Java.
