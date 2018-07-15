@@ -25,3 +25,16 @@ const main = () => {
     console.log(s)
     }
 }
+
+//one way could be
+// Complete the staircase function below.
+function staircase(n) {
+
+    var blankStr =' ';
+    var poundStr = "#";
+    for(var i = 1 ;i<=n ; i++){
+       console.log(blankStr.repeat(n-i) + poundStr.repeat(i)) ;
+       
+    }
+
+}
